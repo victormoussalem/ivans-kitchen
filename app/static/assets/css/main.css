@@ -2028,6 +2028,7 @@
 		ul.actions li {
 			display: inline-block;
 			margin: 0 0 0 0.5em;
+			
 		}
 
 			ul.actions li:first-child {
@@ -2312,6 +2313,8 @@
 		.main.style2 {
 			padding: 3em 0 3em 0;
 			overflow: hidden;
+			color: 	#EE3A8C;
+
 		}
 
 			.main.style2 .content {
@@ -2362,6 +2365,7 @@
 		.main.style3 {
 			text-align: center;
 			padding: 6em 0 6em 0;
+			color: 	#EE3A8C;			
 		}
 
 			.main.style3 .content > header {
